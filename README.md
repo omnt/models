@@ -68217,7 +68217,6 @@ solid base002 (Meshed)
 endsolid Mesh
 ```
 
-
 # Box - Cover
 
 # Spot - Box
