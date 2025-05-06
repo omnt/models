@@ -3,8 +3,17 @@ Those models were used to shield the messprobes from the environment during the 
 
 
 # Static Probes - Box 
-<model-viewer src="box_v2-box.stl" alt="A 3D model of a box" camera-controls autoplay ar></model-viewer>
-
+```stl
+solid Mesh
+  facet normal -0.000000 1.000000 0.000000
+    outer loop
+      vertex 15.337000 15.000000 109.000000
+      vertex 15.337000 15.000000 139.000000
+      vertex 99.000000 15.000000 0.000000
+    endloop
+  endfacet
+  ...
+```
 
 # Box - Cover
 
